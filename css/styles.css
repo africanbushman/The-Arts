@@ -31,13 +31,20 @@ nav {
   justify-content: center;
   position: relative;
 }
+/*photos and the empty frames*/
 #artist-photo {
   margin: inherit;
   padding-right: 10%;
 }
+#El-Drake:hover {
+  color:#FFF;
+  background-color: #996600;
+}
 #empty-frame {
   padding-left: 1%;
 }
+/*end photos and the empty frames*/
+
 /*footer*/
 .row2{
   background-color: #996600 ;
@@ -45,15 +52,15 @@ nav {
   bottom: 0%;
   color: white;
   width:100%;
-  margin-bottom: -50;
+  padding-bottom: -150%;
 }
 
 .row2 img {
   float: right;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
   display: inline-block;
   padding-right: 30px;
-  padding-top: 10px;
+  padding-top: -40px;
 }
 
 .row2 p {
@@ -62,4 +69,7 @@ nav {
   display: inline-block;
   padding-top: 10px;
 }
-/*footer*/
+.copyrights {
+  margin-bottom: 10px;
+}
+/*end footer*/
