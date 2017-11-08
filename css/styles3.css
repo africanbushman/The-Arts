@@ -35,6 +35,7 @@ li {
   float: left;
   margin: 0 10px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 nav {
@@ -43,11 +44,26 @@ nav {
   position: relative;
 }
 /*end of nav bar*/
+/*social media links*/
+#twitter-button:hover{
+  color: #996600;
+  text-decoration: underline overline;
+  cursor: pointer;
+}
+#facebook-button:hover{
+  color: #996600;
+  text-decoration: underline overline;
+  cursor: pointer;
+}
 
+/*end of social media links*/
 /*photos and the empty frames*/
 #artist-photo {
   margin: inherit;
   padding-right: 10%;
+}
+#artist-photo:hover {
+  cursor: pointer;
 }
 #El-Drake:hover {
   color:#FFF;
