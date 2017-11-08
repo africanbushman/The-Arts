@@ -1,26 +1,32 @@
-.logo{
+.logo {
   padding-top: 50px;
   display: flex;
   justify-content: center;
 }
+
 h3 {
   color: #996600;
   font-size: 50px;
 }
+
 ul {
   list-style: none;
   padding: 0;
   color: #996600;
 }
- #gallery{
+
+#gallery {
   justify-content: center;
   display: flex;
 }
+
 /*nav bar*/
-nav li:hover{
+
+nav li:hover {
   color: #FFF;
   background-color: #996600;
 }
+
 nav:before, nav:after {
   content: "";
   border: 1px solid #996600;
@@ -43,15 +49,19 @@ nav {
   justify-content: center;
   position: relative;
 }
+
 /*end of nav bar*/
+
 /*social media links*/
-#twitter-button:hover{
+
+#twitter-button:hover {
   color: #996600;
   text-decoration: underline overline;
   cursor: pointer;
   padding: 0;
 }
-#facebook-button:hover{
+
+#facebook-button:hover {
   color: #996600;
   text-decoration: underline overline;
   cursor: pointer;
@@ -59,33 +69,45 @@ nav {
 }
 
 /*end of social media links*/
+
+/*test*/
+
+/*end of test*/
+
 /*photos and the empty frames*/
+
 #artist-photo {
   margin: inherit;
   padding-right: 10%;
 }
+
 #artist-photo:hover {
   cursor: pointer;
 }
+
 #El-Drake:hover {
-  color:#FFF;
+  color: #FFF;
   background-color: #996600;
 }
+
 #empty-frame {
   padding-left: 1%;
 }
+
 /*end photos and the empty frames*/
 
-
 /*footer*/
+
 #footer {
   background-color: #996600;
   color: white;
   width: 101%;
 }
-#footer  p{
-padding-top: 5%;
+
+#footer p {
+  padding-top: 5%;
 }
+
 /*end of footer*/
 
 /*artist-portfolio html*/
