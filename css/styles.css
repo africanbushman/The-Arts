@@ -1,3 +1,11 @@
+.logo{
+  display: flex;
+  justify-content: center;
+}
+h3 {
+  color: #996600;
+  font-size: 50px;
+}
 ul {
   list-style: none;
   padding: 0;
@@ -6,6 +14,7 @@ ul {
 img {
   padding-left: 35%;
 }
+/*nav bar*/
 nav li:hover{
   color: #FFF;
   background-color: #996600;
@@ -31,6 +40,8 @@ nav {
   justify-content: center;
   position: relative;
 }
+/*end of nav bar*/
+
 /*photos and the empty frames*/
 #artist-photo {
   margin: inherit;
@@ -46,21 +57,26 @@ nav {
 /*end photos and the empty frames*/
 
 /*footer*/
+.banner{
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding-top: 30px;
+}
 .row2{
-  background-color: #996600 ;
+  background-color: #996600;
   height: 70px;
   bottom: 0%;
   color: white;
   width:100%;
-  padding-bottom: -150%;
 }
 
 .row2 img {
   float: right;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   display: inline-block;
   padding-right: 30px;
-  padding-top: -40px;
+  padding-top: 10px;
 }
 
 .row2 p {
@@ -69,9 +85,10 @@ nav {
   display: inline-block;
   padding-top: 10px;
 }
-.copyrights {
-  margin-bottom: 10px;
+
+.row{
+  margin: inherit;
 }
-/*end footer*/
+/*end of footer*/
 
 /*artist-portfolio html*/
