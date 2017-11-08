@@ -49,11 +49,13 @@ nav {
   color: #996600;
   text-decoration: underline overline;
   cursor: pointer;
+  padding: 0;
 }
 #facebook-button:hover{
   color: #996600;
   text-decoration: underline overline;
   cursor: pointer;
+  padding: 0;
 }
 
 /*end of social media links*/
@@ -73,6 +75,7 @@ nav {
   padding-left: 1%;
 }
 /*end photos and the empty frames*/
+
 
 /*footer*/
 #footer {
