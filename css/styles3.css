@@ -1,4 +1,5 @@
 .logo{
+  padding-top: 50px;
   display: flex;
   justify-content: center;
 }
@@ -11,8 +12,9 @@ ul {
   padding: 0;
   color: #996600;
 }
-img {
-  padding-left: 35%;
+ #gallery{
+  justify-content: center;
+  display: flex;
 }
 /*nav bar*/
 nav li:hover{
@@ -57,37 +59,13 @@ nav {
 /*end photos and the empty frames*/
 
 /*footer*/
-.banner{
-  background-size: cover;
-  background-repeat: no-repeat;
-  width: 100%;
-  padding-top: 30px;
-}
-.row2{
+#footer {
   background-color: #996600;
-  height: 70px;
-  bottom: 0%;
   color: white;
-  width:100%;
+  width: 101%;
 }
-
-.row2 img {
-  float: right;
-  padding-bottom: 30px;
-  display: inline-block;
-  padding-right: 30px;
-  padding-top: 10px;
-}
-
-.row2 p {
-  padding-left: 40px;
-  /*padding-top: 0px;*/
-  display: inline-block;
-  padding-top: 10px;
-}
-
-.row{
-  margin: inherit;
+#footer  p{
+padding-top: 5%;
 }
 /*end of footer*/
 
