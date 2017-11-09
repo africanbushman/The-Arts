@@ -19,8 +19,6 @@ The site would also have a donate function, where users would be able to donate 
 (undisclosed figure) to their favorite artist; the aim of this would be to provide an
 alternative cash source to struggling artists.
 
-The site will also include a blog section in which writers would be able to post their thoughts
-in any way(it could be a pictogram)
 
 The art FORM wouldn't be defined therefore musicians/graphic designers/actors would have a page
 that would be, in a sense, their portfolio; exhibiting their strongest work and qualifications (amongst other things)
@@ -36,7 +34,7 @@ For the best viewing experience please use a laptop or desktop and if possible u
 
 ## Here is the link to the live site on GitHub pages
 
-
+https://shirohigemw.github.io/The-Arts/
 
 ## Technologies Used
 
