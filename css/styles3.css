@@ -30,7 +30,7 @@ nav li:hover {
 nav:before, nav:after {
   content: "";
   border: 1px solid #996600;
-  width: 30%;
+  width: 34%;
   height: 0;
   margin: 10px;
   position: relative;
@@ -56,14 +56,14 @@ nav {
 
 #twitter-button:hover {
   color: #996600;
-  text-decoration: underline overline;
+  /*text-decoration: underline overline;*/
   cursor: pointer;
   padding: 0;
 }
 
 #facebook-button:hover {
   color: #996600;
-  text-decoration: underline overline;
+  /*text-decoration: underline overline;*/
   cursor: pointer;
   padding: 0;
 }
@@ -98,14 +98,27 @@ nav {
 
 /*footer*/
 
-#footer {
+/*#footer {
   background-color: #996600;
   color: white;
-  width: 101%;
+  width: 100%;
 }
 
 #footer p {
   padding-top: 5%;
+}*/
+
+#bottombanner {
+  background-color: #996600;
+  color: white;
+  margin-top: 50px;
+}
+
+#footericons img {
+  float: right;
+}
+#bottombanner p {
+  padding-left: 25px;
 }
 
 /*end of footer*/
