@@ -38,7 +38,7 @@ https://shirohigemw.github.io/The-Arts/
 
 ## Technologies Used
 
-The technologies used are as follows HTML, CSS, bootstrap and JavaScript.
+The technologies used are as follows HTML, CSS, bootstrap, youtube api, soundcloud api and JavaScript.
 
 
 ### License
